@@ -31,7 +31,7 @@ function flip(ziggy) {
 
     if(!lookup) return
 
-    ziggy.say(channel, lookup(bits[1]))
+    ziggy.say(channel, lookup(bits.slice(1).join(' ')))
   }
 }
 
