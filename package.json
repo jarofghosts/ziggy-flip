@@ -1,0 +1,26 @@
+{
+  "name": "ziggy-flip",
+  "version": "1.0.0",
+  "description": "flip lots of things with ziggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jarofghosts/ziggy-flip.git"
+  },
+  "keywords": [
+    "ziggy",
+    "flip"
+  ],
+  "author": "jesse keane <me@jessekeane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/ziggy-flip/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/ziggy-flip",
+  "dependencies": {
+    "flip-text": "^1.0.0"
+  }
+}
