@@ -1,6 +1,6 @@
 {
   "name": "ziggy-flip",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "flip lots of things with ziggy",
   "main": "index.js",
   "scripts": {
