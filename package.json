@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jarofghosts/ziggy-flip",
   "dependencies": {
-    "flip-text": "^1.0.0"
+    "flip-text": "^1.1.0"
   }
 }
